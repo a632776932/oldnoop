@@ -185,7 +185,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 查看日志，修改
+	 * 查看日志，修改一下
 	 * @param session
 	 * @param model
 	 * @return
