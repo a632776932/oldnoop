@@ -1,6 +1,7 @@
 package com.oldnoop.controller;
 
-import java.util.List;
+import
+        java.util.List;
 
 import javax.servlet.http.HttpSession;
 
@@ -18,6 +19,7 @@ import com.oldnoop.entity.MemberLoginLog;
 import com.oldnoop.service.MemberInfoLogServiceImpl;
 import com.oldnoop.service.MemberLoginLogServiceImpl;
 import com.oldnoop.service.MemberServiceImpl;
+
 
 @Controller
 @RequestMapping("/member")
@@ -183,7 +185,7 @@ public class MemberController {
 	}
 
 	/**
-	 * 查看日志
+	 * 查看日志，修改
 	 * @param session
 	 * @param model
 	 * @return
